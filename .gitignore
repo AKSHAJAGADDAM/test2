@@ -47,3 +47,6 @@ $RECYCLE.BIN/
 **/.venv/
 **/venv/
 manifest/
+package/
+package.xml
+destructiveChanges.xml
