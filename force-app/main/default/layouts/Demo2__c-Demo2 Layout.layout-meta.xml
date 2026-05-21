@@ -12,10 +12,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Closed_Date__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Phone_Number__c</field>
             </layoutItems>
         </layoutColumns>
